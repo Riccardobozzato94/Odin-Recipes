@@ -1,6 +1,3 @@
-
-# odin-recipes
-
 Assignment
 
 Iteration 1: initial structure
